@@ -1,5 +1,5 @@
 <h2 align="center">Cesar Delgado</h2>
-<h4 align="center">Ingeniero en Sistemas | MSc. Ciencias de la Computación (en curso)</h4>
+<h4 align="center">Systems Engineer | MSc. Computer Science (in progress)</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cessdel/">
@@ -15,24 +15,25 @@
 
 ---
 
-## Sobre mí
+## About me
 
-Soy una persona apasionada por el aprendizaje continuo y el crecimiento personal. Creo firmemente en el poder de las relaciones humanas, la empatía y el trabajo colaborativo. Mi enfoque siempre ha sido más hacia el entendimiento de las personas y sus necesidades, buscando maneras de aportar valor en todos los aspectos de mi vida.
+I am passionate about continuous learning and personal growth. I firmly believe in the power of human relationships, empathy, and collaborative work. My approach has always been towards understanding people and their needs, seeking ways to add value in all aspects of my life.
 
-Me interesa explorar nuevas ideas, compartir conocimientos y aportar a proyectos que no solo generen soluciones, sino que también promuevan un impacto positivo. Siempre trato de ver la tecnología como una herramienta al servicio de las personas, no como un fin en sí mismo.
+I am interested in exploring new ideas, sharing knowledge, and contributing to projects that not only provide solutions but also promote a positive impact. I always see technology as a tool for the benefit of people, not an end in itself.
 
-Me esfuerzo por ser una persona íntegra, generosa y con una mentalidad de mejora constante, tanto en lo profesional como en lo personal. Mi propósito es crecer junto a los demás, aprender de todos y contribuir a un entorno más positivo y consciente.
+I strive to be a person of integrity, generosity, and with a mindset of constant improvement, both professionally and personally. My purpose is to grow alongside others, learn from everyone, and contribute to a more positive and conscious environment.
 
----
-
-## Formación Académica
-
-- **Ingeniería en Sistemas Computacionales** – Instituto Tecnológico de León  
-- **Maestría en Ciencias de la Computación** – En curso
 
 ---
 
-## Tecnologías y Especialidades
+## Academic Background
+
+- **Systems Engineering** – Instituto Tecnológico de León  
+- **Master's in Computer Science** – In progress
+
+---
+
+## Technologies and Specialties
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -61,11 +62,11 @@ Me esfuerzo por ser una persona íntegra, generosa y con una mentalidad de mejor
 </p>
 
 
-- 🔧 **Backend Development**: APIs REST, microservicios, FastAPI, Node.js  
-- 📊 **Data Science**: procesamiento de datos, machine learning  
-- 🤖 **IA Aplicada**: modelos predictivos, detección de anomalías  
-- 🌐 **Sistemas IoT**: ESP32, sensores, monitoreo en tiempo real  
-- ☁️ **DevOps**: Docker, automatización con scripts
+- 🔧 **Backend Development**: REST APIs, microservices, FastAPI, Node.js
+- 📊 **Data Science**: pdata processing, machine learning  
+- 🤖 **Applied IA**: predictive models, anomaly detection  
+- 🌐 **IoT systems**: ESP32, sensors, real time monitoring  
+- ☁️ **DevOps**: Docker, automation with scripts
 
 ---
 
@@ -77,19 +78,20 @@ Me esfuerzo por ser una persona íntegra, generosa y con una mentalidad de mejor
 
 ---
 
-## Hobbies e Intereses
+## Hobbies and Interests
 
-Fuera del ámbito profesional, disfruto de actividades que enriquecen mi vida personal:
+Outside the professional realm, I enjoy activities that enrich my personal life:
 
-- 📸 **Fotografía**: Capturar momentos especiales y jugar con la luz.
-- 📚 **Literatura**: Disfruto de la lectura sobre temas variados, desde ficción hasta desarrollo personal.
-- 🎧 **Música**: Me apasiona la música.
-- 🧠 **Psicología**: Me interesa la comprensión del comportamiento humano y el desarrollo de hábitos positivos.
-- ✍️ **Escritura**: Reflexiones personales, ideas y notas sobre el mundo que me rodea.
+
+- 📸 **Photography**: Capturing special moments and playing with light.
+- 📚 **Literature**: I enjoy reading on various topics, from fiction to personal development.
+- 🎧 **Music**: Music is a big passion.
+- 🧠 **Psychology**: I’m interested in understanding human behavior and developing positive habits.
+- ✍️ **Writing**: Personal reflections, ideas, and notes on the world around me.
 
 ---
 
-## Contacto
+## Contact
 
 - ✉️ **Email**: [cesardelgadocardona@gmail.com](mailto:tcesardelgadocardona@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/cessdel](https://www.linkedin.com/in/cessdel/)
